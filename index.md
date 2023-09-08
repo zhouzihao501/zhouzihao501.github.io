@@ -1,14 +1,16 @@
-![](images/xjtlu.jpeg)
-*XJTLU SuZhou. 2022*
+<h1 align='center'>
+  <br>
+  <img src='images/xjtlu.jpeg'  width='200'>
+  <br>
+  Zihao Zhou
+  <br>
+</h1>
 
----
 
-
+Zihao Zhou 周梓浩 @ [Premilab](http://www.premilab.com/MainPage.ashx)  
 [Email](Zihao.Zhou22@student.xjtlu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [CV](cv.pdf)
 
-Zihao Zhou 周梓浩 @ [Premilab](http://www.premilab.com/MainPage.ashx)
-
-I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en) and [University of Liverpool](https://www.liverpool.ac.uk/), beginning from 2022 Fall. 
+Hi, I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en) and [University of Liverpool](https://www.liverpool.ac.uk/), beginning from 2022 Fall. 
 My supervisory team includs [Qiufeng Wang](https://www.xjtlu.edu.cn/zh/departments/academic-departments/electrical-and-electronic-engineering/staff/qiufeng-wang), [Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx), [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Wei Wang](https://www.xjtlu.edu.cn/zh/staff-details/staff/wei-wang03).
 My research interests lie in __Natural Language Processing__, __Mathmatical Question Answering__, __Large Language Models Reasoning__, __Dialog tutoring System__, etc.
 
@@ -46,7 +48,7 @@ Feel free to contact me if you are interested in my research or want to discuss 
 
 
 ## Education
-* 2022.09 - present. Ph.D.  Xi’an Jiaotong-liverpool University, University of Liverpool
+* 2022.09 - Present. Ph.D.  Xi’an Jiaotong-liverpool University, University of Liverpool
 * 2018.09 - 2022.06 B.S.  South China Agricultural University
 
 
