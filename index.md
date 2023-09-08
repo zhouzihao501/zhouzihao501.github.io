@@ -15,7 +15,7 @@ My research interests lie in:
 *  __Large Language Models Reasoning__: Evaluating and improving the reasoning ability of LLMs, particularly in math solving ability.
 *  __Dialog tutoring System__: Exploring how to build tutoring system like real teacher.
 
-Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations :smile:.
+Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations!
 
 
 
