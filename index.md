@@ -9,7 +9,9 @@ Zihao Zhou 周梓浩 @ [Premilab](http://www.premilab.com/MainPage.ashx)
 [Email](Zihao.Zhou22@student.xjtlu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [CV](cv.pdf)
 
 Hi! I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en) and [University of Liverpool](https://www.liverpool.ac.uk/), beginning from 2022 Fall. 
-My supervisory team includes [Prof. Qiufeng Wang](http://www.premilab.com/QiufengWANG.ashx), [Prof. Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).  
+My supervisory team includes [Prof. Qiufeng Wang](http://www.premilab.com/QiufengWANG.ashx), [Prof. Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
+Recently, I am a visiting student at Tsinghua University, advised by [Prof. Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/).
+
 My research interests lie in:
 *  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
 *  __Large Language Models Reasoning__: Evaluating and improving the reasoning ability of LLMs, particularly in math solving ability.
