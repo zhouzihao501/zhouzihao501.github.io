@@ -10,7 +10,7 @@ Zihao Zhou 周梓浩 @ [Premilab](http://www.premilab.com/MainPage.ashx)
 
 Hi! I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en) and [University of Liverpool](https://www.liverpool.ac.uk/), beginning from 2022 Fall. 
 My supervisory team includes [Prof. Qiufeng Wang](http://www.premilab.com/QiufengWANG.ashx), [Prof. Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
-Recently, I am a visiting student at Tsinghua University, advised by [Prof. Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/).
+Recently, I am a visiting student at Tsinghua University, working in [KEG lab](https://keg.cs.tsinghua.edu.cn/).
 
 My research interests lie in:
 *  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
