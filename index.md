@@ -6,7 +6,8 @@
 
 
 Zihao Zhou 周梓浩 @ [Premilab](http://www.premilab.com/MainPage.ashx)  
-[Email](Zihao.Zhou22@student.xjtlu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [CV](cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [CV](cv.pdf)
+Zihao.Zhou22@student.xjtlu.edu.cn
 
 Hi! I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en) and [University of Liverpool](https://www.liverpool.ac.uk/), beginning from 2022 Fall. 
 My supervisory team includes [Prof. Qiufeng Wang](http://www.premilab.com/QiufengWANG.ashx), [Prof. Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
