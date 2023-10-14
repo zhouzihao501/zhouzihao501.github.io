@@ -32,7 +32,7 @@ Feel free to contact me if you are interested in my research or want to discuss 
   * A problem type classifier to combine the abilities of traditional solver and LLM solver.
   * Ranked 2nd in [NLPCC 2023 Share Task 3](https://github.com/2003pro/CNMWP).
 
-* [ACL 2023 Findings] _Learning by Analogy: Diverse Questions Generation in Math Word Problem_. [[paper](https://aclanthology.org/2023.findings-acl.705/)]
+* [ACL 2023 Findings] _Learning by Analogy: Diverse Questions Generation in Math Word Problem_. [[paper](https://aclanthology.org/2023.findings-acl.705/)] [[code](https://github.com/zhouzihao501/DiverseMWP)]
   * __Zihao Zhou__\*, Maizhen Ning\*, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang and Kaizhu Huang 
   * A framework to generate questions with equations for a given math word problems.
 
