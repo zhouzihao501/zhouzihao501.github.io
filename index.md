@@ -23,7 +23,7 @@ Feel free to contact me if you are interested in my research or want to discuss 
 
 
 ## Publications
-* [Arxiv 2023] _MathAttack: Attacking Large Language Models Towards Math Solving Ability_. [[paper](https://arxiv.org/abs/2309.01686)] [[code](https://github.com/zhouzihao501/MathAttack)]
+* [AAAI 2024] _MathAttack: Attacking Large Language Models Towards Math Solving Ability_. [[paper](https://arxiv.org/abs/2309.01686)] [[code](https://github.com/zhouzihao501/MathAttack)]
   * __Zihao Zhou__, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang and Kaizhu Huang 
   * Examining the security of LLMs in math solving ability by attacking math word problems.
 
