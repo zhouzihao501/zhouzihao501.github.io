@@ -13,8 +13,8 @@ Hi! I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www
 My supervisory team includes [Prof. Qiufeng Wang](http://www.premilab.com/QiufengWANG.ashx), [Prof. Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
 My research interests lie in:
-*  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
 *  __Large Language Models Reasoning__: Evaluating and improving the reasoning ability of LLMs, particularly in math solving ability.
+*  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
 *  __Dialog tutoring System__: Exploring how to build tutoring system like real teacher.
 
 Feel free to contact me if you are interested in my research or want to discuss relevant research!
@@ -39,15 +39,15 @@ Feel free to contact me if you are interested in my research or want to discuss 
   * Wei Liu, Peijie Huang, Dongzhu Liang, __Zihao Zhou__ 
   * A two-stage pipeline for chat detection.
 
-
+##Experience
+* 2023.09 - 2024.03. Visiting Student. Tsinghua University [KEG Lab](https://github.com/THUDM)
 
 ## Services
 * Conference Reviewer: NIPS2024, ICML2024 DMLR workshop, EMNLP 2023
 * Journal Reviewer: Neural Networks
 
 
-
-## Education
+##Education
 * 2022.09 - Present. Ph.D.  Xi’an Jiaotong-liverpool University, University of Liverpool
 * 2018.09 - 2022.06 B.S.  South China Agricultural University
 
