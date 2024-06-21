@@ -42,14 +42,14 @@ Feel free to contact me if you are interested in my research or want to discuss 
 ## Experience
 * 2023.09 - 2024.03. Visiting Student. Tsinghua University [KEG Lab](https://github.com/THUDM)
 
+## Education
+* 2022.09 - Present. Ph.D.  Xi’an Jiaotong-liverpool University, University of Liverpool
+* 2018.09 - 2022.06 B.S.  South China Agricultural University
+
 ## Services
 * Conference Reviewer: NIPS2024, ICML2024 DMLR workshop, EMNLP 2023
 * Journal Reviewer: Neural Networks
 
-
-## Education
-* 2022.09 - Present. Ph.D.  Xi’an Jiaotong-liverpool University, University of Liverpool
-* 2018.09 - 2022.06 B.S.  South China Agricultural University
 
 
 <h1 align='center'>
