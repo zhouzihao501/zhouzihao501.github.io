@@ -11,7 +11,6 @@ Zihao.Zhou22@student.xjtlu.edu.cn
 
 Hi! I am a CS PhD student at [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en) and [University of Liverpool](https://www.liverpool.ac.uk/), beginning from 2022 Fall. 
 My supervisory team includes [Prof. Qiufeng Wang](http://www.premilab.com/QiufengWANG.ashx), [Prof. Kaizhu Huang](http://www.premilab.com/KaizhuHUANG.ashx) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
-Recently, I am a visiting student at Tsinghua University, working in [KEG lab](https://github.com/THUDM).
 
 My research interests lie in:
 *  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
@@ -43,11 +42,8 @@ Feel free to contact me if you are interested in my research or want to discuss 
 
 
 ## Services
-* Conference Reviewer: EMNLP 2023
+* Conference Reviewer: NIPS2024, ICML2024 DMLR workshop, EMNLP 2023
 * Journal Reviewer: Neural Networks
-* Teaching:
-  * Xi’an Jiaotong-liverpool University, Data Mining (INT402), 2022 Fall.
-  * Xi’an Jiaotong-liverpool University, Artificial Intelligence (INT104), 2022 Spring.
 
 
 
