@@ -39,7 +39,7 @@ Feel free to contact me if you are interested in my research or want to discuss 
   * Wei Liu, Peijie Huang, Dongzhu Liang, __Zihao Zhou__ 
   * A two-stage pipeline for chat detection.
 
-##Experience
+## Experience
 * 2023.09 - 2024.03. Visiting Student. Tsinghua University [KEG Lab](https://github.com/THUDM)
 
 ## Services
@@ -47,7 +47,7 @@ Feel free to contact me if you are interested in my research or want to discuss 
 * Journal Reviewer: Neural Networks
 
 
-##Education
+## Education
 * 2022.09 - Present. Ph.D.  Xi’an Jiaotong-liverpool University, University of Liverpool
 * 2018.09 - 2022.06 B.S.  South China Agricultural University
 
