@@ -24,15 +24,15 @@ Feel free to contact me if you are interested in my research or want to discuss 
 ## Publications
 * [AAAI 2024] _MathAttack: Attacking Large Language Models Towards Math Solving Ability_. [[paper](https://arxiv.org/abs/2309.01686)] [[code](https://github.com/zhouzihao501/MathAttack)]
   * __Zihao Zhou__, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang and Kaizhu Huang 
-  * Examining the security of LLMs in math solving ability by attacking math word problems.
+  * Examining the robustness of LLMs in math reasoning ability.
 
 * [ACL 2023 Findings] _Learning by Analogy: Diverse Questions Generation in Math Word Problem_. [[paper](https://aclanthology.org/2023.findings-acl.705/)] [[code](https://github.com/zhouzihao501/DiverseMWP)]
   * __Zihao Zhou__\*, Maizhen Ning\*, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang and Kaizhu Huang 
-  * A framework to generate questions with equations for a given math word problems.
+  * A framework to generate diverse questions with labels for a given math word problems.
 
 * [NLPCC 2023] Evaluation Track. _Solving Math Word Problem with Problem Type Classification_. [[paper](https://arxiv.org/abs/2308.13844)][[code](https://github.com/zhouzihao501/NLPCC2023-Shared-Task3-ChineseMWP)]
   * Jie Yao\*, __Zihao Zhou__\*, Qiufeng Wang
-  * A problem type classifier to combine the abilities of traditional solver and LLM solver.
+  * A problem type classifier to combine the abilities of LLM solver and traditional math solver.
   * Ranked 2nd in [NLPCC 2023 Share Task 3](https://github.com/2003pro/CNMWP).
 
 * [ICASSP 2021] _Knowledge-Based Chat Detection with False Mention Discrimination_. [[paper](https://ieeexplore.ieee.org/document/9414073)]
