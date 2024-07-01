@@ -17,7 +17,6 @@ My research interests lie in:
 *  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
 *  __Dialog tutoring System__: Exploring how to build tutoring system like real teacher.
 
-Feel free to contact me if you are interested in my research or want to discuss relevant research!
 
 
 
