@@ -21,7 +21,7 @@ My research interests lie in:
 
 
 ## Publications
-* [Preprint] _Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist_. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
+* [Preprint] [[_Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist_.](https://arxiv.org/abs/2407.08733)] [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
   * __Zihao Zhou__\*, Shudong Liu\*, Maizhen Ning, Wei Liu, Jingdong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang and Kaizhu Huang 
   * MATHCHECK includes multiple mathematical reasoning tasks and robustness test types to facilitate a comprehensive evaluation of both mathematical reasoning ability and behavior testing.
 
