@@ -6,7 +6,7 @@
 
 
 Zihao Zhou 周梓浩 @ [Premilab](http://www.premilab.com/MainPage.ashx)  
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [Github](https://github.com/zhouzihao501) / [Twitter](https://x.com/zihaozhou566892)  
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [Github](https://github.com/zhouzihao501) / [Twitter](https://x.com/zihaozhou_)  
 zihao.zhou@liverpool.ac.uk
 
 Hi! I am a CS PhD student at [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en), beginning from 2022 Fall. 
