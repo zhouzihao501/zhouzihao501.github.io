@@ -33,7 +33,7 @@ My research interests lie in:
   * __Zihao Zhou__\*, Maizhen Ning\*, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang and Kaizhu Huang 
   * A framework to generate diverse questions with labels for a given math word problems.
 
-* [NLPCC 2023] Evaluation Track. _Solving Math Word Problem with Problem Type Classification_. [[paper](https://arxiv.org/abs/2308.13844)][[code](https://github.com/zhouzihao501/NLPCC2023-Shared-Task3-ChineseMWP)]
+* [NLPCC 2023] _Solving Math Word Problem with Problem Type Classification_. [[paper](https://arxiv.org/abs/2308.13844)][[code](https://github.com/zhouzihao501/NLPCC2023-Shared-Task3-ChineseMWP)]
   * Jie Yao\*, __Zihao Zhou__\*, Qiufeng Wang
   * A problem type classifier to combine the abilities of LLM solver and traditional math solver.
   * Ranked 2nd in [NLPCC 2023 Share Task 3](https://github.com/2003pro/CNMWP).
