@@ -43,7 +43,7 @@ My research interests lie in:
   * A two-stage pipeline for chat detection.
 
 ## Experience
-* 2023.09 - 2024.03. Visiting Student. Tsinghua University [KEG Lab](https://github.com/THUDM)
+* 2023.09 - 2024.03. Visiting Student. Tsinghua University at [KEG Lab](https://github.com/THUDM)
 * 2022.09 - Present. Ph.D.  University of Liverpool
 * 2018.09 - 2022.06 B.S.  South China Agricultural University
 
