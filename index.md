@@ -21,24 +21,24 @@ My research interests lie in:
 
 
 ## Publications
-* [Preprint] _Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist_. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
+* [Preprint] __Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist__. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
   * __Zihao Zhou__\*, Shudong Liu\*, Maizhen Ning, Wei Liu, Jingdong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang and Kaizhu Huang 
   * MathCheck includes multiple mathematical reasoning tasks and robustness test types to facilitate a comprehensive evaluation of both mathematical reasoning ability and behavior testing.
 
-* [AAAI 2024] _MathAttack: Attacking Large Language Models Towards Math Solving Ability_. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29949)] [[code](https://github.com/zhouzihao501/MathAttack)]
+* [AAAI 2024] __MathAttack: Attacking Large Language Models Towards Math Solving Ability__. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29949)] [[code](https://github.com/zhouzihao501/MathAttack)]
   * __Zihao Zhou__, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang and Kaizhu Huang 
   * Examining the robustness of LLMs in math reasoning ability.
 
-* [ACL 2023 Findings] _Learning by Analogy: Diverse Questions Generation in Math Word Problem_. [[paper](https://aclanthology.org/2023.findings-acl.705/)] [[code](https://github.com/zhouzihao501/DiverseMWP)]
+* [ACL 2023 Findings] __Learning by Analogy: Diverse Questions Generation in Math Word Problem__. [[paper](https://aclanthology.org/2023.findings-acl.705/)] [[code](https://github.com/zhouzihao501/DiverseMWP)]
   * __Zihao Zhou__\*, Maizhen Ning\*, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang and Kaizhu Huang 
   * A framework to generate diverse questions with labels for a given math word problems.
 
-* [NLPCC 2023] _Solving Math Word Problem with Problem Type Classification_. [[paper](https://arxiv.org/abs/2308.13844)][[code](https://github.com/zhouzihao501/NLPCC2023-Shared-Task3-ChineseMWP)]
+* [NLPCC 2023] __Solving Math Word Problem with Problem Type Classification__. [[paper](https://arxiv.org/abs/2308.13844)][[code](https://github.com/zhouzihao501/NLPCC2023-Shared-Task3-ChineseMWP)]
   * Jie Yao\*, __Zihao Zhou__\*, Qiufeng Wang
   * A problem type classifier to combine the abilities of LLM solver and traditional math solver.
   * Ranked 2nd in [NLPCC 2023 Share Task 3](https://github.com/2003pro/CNMWP).
 
-* [ICASSP 2021] _Knowledge-Based Chat Detection with False Mention Discrimination_. [[paper](https://ieeexplore.ieee.org/document/9414073)]
+* [ICASSP 2021] __Knowledge-Based Chat Detection with False Mention Discrimination__. [[paper](https://ieeexplore.ieee.org/document/9414073)]
   * Wei Liu, Peijie Huang, Dongzhu Liang, __Zihao Zhou__ 
   * A two-stage pipeline for chat detection.
 
