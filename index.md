@@ -44,7 +44,7 @@ My research interests lie in:
 
 * [ICASSP 2021] __Knowledge-Based Chat Detection with False Mention Discrimination__. [[paper](https://ieeexplore.ieee.org/document/9414073)]
   * Wei Liu, Peijie Huang, Dongzhu Liang, __Zihao Zhou__
-  * A two-stage pipeline for chat detection.
+  * 🗣️🤖 A two-stage pipeline for chat detection.
 
   
 ## Experience
