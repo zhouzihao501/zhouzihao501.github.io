@@ -28,8 +28,11 @@ My research interests lie in:
    
 * [AAAI 2024] __MathAttack: Attacking Large Language Models Towards Math Solving Ability__. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29949)] [[code](https://github.com/zhouzihao501/MathAttack)]
   * __Zihao Zhou__, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, Wei Liu, Wei Wang, Xiaowei Huang and Kaizhu Huang 
-  * ⚒ Examining the robustness of LLMs in math reasoning ability by textual Attack Algorithm.
-<br>
+  * ⚒ Examining the robustness of LLMs in math reasoning ability by textual attack algorithm.
+
+
+
+
   
 * [ACL 2023 Findings] __Learning by Analogy: Diverse Questions Generation in Math Word Problem__. [[paper](https://aclanthology.org/2023.findings-acl.705/)] [[code](https://github.com/zhouzihao501/DiverseMWP)]
   * __Zihao Zhou__\*, Maizhen Ning\*, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang and Kaizhu Huang 
