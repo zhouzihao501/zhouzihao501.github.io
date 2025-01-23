@@ -29,7 +29,7 @@ My research interests lie in:
 
 * [AAAI 2025] __GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs__. 
   * Maizhen Ning\*, __Zihao Zhou__\*, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang 
-  * GNS is a neural-symbolic reasoning model simultaneously capable of multiple geometry reasoning tasks beyond solving. Training: multi-tasks SFT. Inference: combining knowledge prediction, geomerey image parsing and tool calling.
+  * GNS is a neural-symbolic reasoning model simultaneously capable of multiple geometry reasoning tasks beyond solving. Training: multi-tasks SFT. Inference: combining knowledge prediction, geometry image parsing and tool calling.
   * Selected as Oral Presentation(Top 5%) 🎉.  
 <br>
 
