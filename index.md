@@ -14,7 +14,7 @@ My supervisory team includes [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/e
 
 My research interests lie in:
 *  __Large Language Models Reasoning__: Evaluating and improving the reasoning ability of LLMs, particularly in math solving ability.
-*  __Mathmatical Question Answering__ : Math word problem, Geometry problem, etc. 
+*  __Mathematical Question Answering__ : Math word problem, Geometry problem, etc. 
 *  __Dialog tutoring System__: Exploring how to build tutoring system like real teacher.
 
 
