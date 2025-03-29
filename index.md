@@ -54,7 +54,7 @@ My research interests lie in:
 
 
 
-<div style="height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div style="height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; border: none">
   <ul>
     <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
     <li>02/2022: Paper on long-horizon vision-and-language navigation accepted to CVPR 2022.</li>
