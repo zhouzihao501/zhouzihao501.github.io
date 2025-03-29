@@ -18,16 +18,16 @@ My research interests lie in:
 *  __Dialog tutoring System__: Exploring how to build tutoring system like real teacher.
 
 
-## What's New
-<div style="height: 150px; overflow-y: scroll; list-style-type: none; padding: 0; margin: 0; border: none">
+## News
+<div style="height: 300px; overflow-y: scroll; list-style-type: none; padding: 0; margin: 0; border: none">
   <ul>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
   </ul>
 </div>
 
