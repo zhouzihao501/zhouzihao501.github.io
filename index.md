@@ -19,7 +19,7 @@ My research interests lie in:
 
 
 ## What's New
-<div style="height: 150px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; border: none">
+<div style="height: 150px; overflow-y: scroll; list-style-type: none; padding: 0; margin: 0; border: none">
   <ul>
     <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
     <li style="color: gray;">04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
