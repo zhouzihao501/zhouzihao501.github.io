@@ -19,8 +19,8 @@ My research interests lie in:
 
 
 
-<h2>Publications</h2>
-<div style="border-top: 3px solid red; width: 80%; margin: 0 auto;"></div>
+## Publications
+
 * [ICLR 2025] __Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist__. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
   * __Zihao Zhou__\*, Shudong Liu\*, Maizhen Ning, Wei Liu, Jingdong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang 
   * 🔍 MathCheck includes multiple mathematical reasoning tasks and robustness test types to facilitate a comprehensive evaluation of both mathematical reasoning ability and behavior testing.  
@@ -32,7 +32,6 @@ My research interests lie in:
   * GNS is a neural-symbolic reasoning system simultaneously capable of multiple geometry reasoning tasks beyond solving. Training: multi-tasks SFT. Inference: combining knowledge prediction, geometry image parsing and tool calling.
   * Selected as Oral Presentation(Top 5%) 🎉.  
 <br>
-
 
 
 * [AAAI 2024] __MathAttack: Attacking Large Language Models Towards Math Solving Ability__. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29949)] [[code](https://github.com/zhouzihao501/MathAttack)]
