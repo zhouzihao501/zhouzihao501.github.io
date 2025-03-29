@@ -20,6 +20,7 @@ My research interests lie in:
 
 
 
+
 ## Publications
 * [ICLR 2025] __Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist__. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
   * __Zihao Zhou__\*, Shudong Liu\*, Maizhen Ning, Wei Liu, Jingdong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang 
@@ -50,6 +51,38 @@ My research interests lie in:
   * A problem type classifier to combine the abilities of LLM solver and traditional math solver.
   * 🎯 Ranked 2nd in [NLPCC 2023 Share Task 3](https://github.com/2003pro/CNMWP).  
 <br>
+
+
+
+<div style="height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+  <ul>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>02/2022: Paper on long-horizon vision-and-language navigation accepted to CVPR 2022.</li>
+    <li>02/2022: Paper on text-to-SQL generalization accepted to ACL 2022.</li>
+    <li>12/2021: Check out a <a href="#">summary of the major achievements</a> by the OSU NLP group in 2021!</li>
+    <li>11/2021: Our team is selected to participate in the <a href="#">Alexa Prize SimBot challenge</a>!</li>
+    <li>09/2021: Excited to be a part of the <a href="#">Imageomics Institute</a>...</li>
+    <li>08/2021: Paper on pre-trained language models with better reasoning capabilities accepted to EMNLP 2021.</li>
+    <li>07/2021: Excited to be a part of <a href="#">ICICLE</a>...</li>
+    <li>07/2021: Talk at USC/ISI and Beijing Academy of Artificial Intelligence...</li>
+    <li>05/2021: Long paper on large-scale joint KB and text embedding accepted to ACL 2021.</li>
+    <li>03/2021: Received an Accelerator Grant from OSU TDAI on NLP for Social Media Pharmacovigilance.</li>
+    <li>02/2021: Short Paper on compositional generalization for neural semantic parsing...</li>
+    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
+    <li>02/2022: Paper on long-horizon vision-and-language navigation accepted to CVPR 2022.</li>
+    <li>02/2022: Paper on text-to-SQL generalization accepted to ACL 2022.</li>
+    <li>12/2021: Check out a <a href="#">summary of the major achievements</a> by the OSU NLP group in 2021!</li>
+    <li>11/2021: Our team is selected to participate in the <a href="#">Alexa Prize SimBot challenge</a>!</li>
+    <li>09/2021: Excited to be a part of the <a href="#">Imageomics Institute</a>...</li>
+    <li>08/2021: Paper on pre-trained language models with better reasoning capabilities accepted to EMNLP 2021.</li>
+    <li>07/2021: Excited to be a part of <a href="#">ICICLE</a>...</li>
+    <li>07/2021: Talk at USC/ISI and Beijing Academy of Artificial Intelligence...</li>
+    <li>05/2021: Long paper on large-scale joint KB and text embedding accepted to ACL 2021.</li>
+    <li>03/2021: Received an Accelerator Grant from OSU TDAI on NLP for Social Media Pharmacovigilance.</li>
+    <li>02/2021: Short Paper on compositional generalization for neural semantic parsing...</li>
+  </ul>
+</div>
+
 
 * [ICASSP 2021] __Knowledge-Based Chat Detection with False Mention Discrimination__. [[paper](https://ieeexplore.ieee.org/document/9414073)]
   * Wei Liu, Peijie Huang, Dongzhu Liang, __Zihao Zhou__
