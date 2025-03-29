@@ -18,23 +18,9 @@ My research interests lie in:
 *  __Dialog tutoring System__: Exploring how to build tutoring system like real teacher.
 
 
-## News
-<div style="height: 300px; overflow-y: scroll; list-style-type: none; padding: 0; margin: 0; border: none">
-  <ul>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-    <li>04/2022: Talk at Nanjing University and JD.com on emerging frontiers of conversational AI.</li>
-  </ul>
-</div>
 
-
-
-
-## Publications
+<h2>Publications</h2>
+<div style="border-top: 3px solid red; width: 80%; margin: 0 auto;"></div>
 * [ICLR 2025] __Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist__. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
   * __Zihao Zhou__\*, Shudong Liu\*, Maizhen Ning, Wei Liu, Jingdong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang 
   * 🔍 MathCheck includes multiple mathematical reasoning tasks and robustness test types to facilitate a comprehensive evaluation of both mathematical reasoning ability and behavior testing.  
