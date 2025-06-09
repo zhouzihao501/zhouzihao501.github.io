@@ -62,8 +62,8 @@ My research interests lie in:
 * __South China Agricultural University__,  Bachelor Student,  2018.09 - 2022.06
 
 ## Services
-* Conference Reviewer: NeurIPS 2024, ICML 2024, ACL ARR 2023/2024
-* Journal Reviewer: Neural Networks
+* Conference Reviewer: NeurIPS 2024, ICML 2024/2025, ACL ARR 2023/2024
+* Journal Reviewer: TASLP, Neural Networks
 
 
 <h1 align='center'>
