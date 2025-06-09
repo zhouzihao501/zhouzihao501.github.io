@@ -59,7 +59,7 @@ My research interests lie in:
 ## Experience
 * __Tsinghua University__,  Visiting Student at [KEG Lab](https://github.com/THUDM),  2023.09 - 2024.03
 * __University of Liverpool__,  PhD Student,  2022.09 - Present
-* __South China Agricultural University__,  Bachelor Student,  2018.09 - 2022.06
+* __South China Agricultural University__,  Bachelor,  2018.09 - 2022.06
 
 ## Services
 * Conference Reviewer: NeurIPS 2024, ICML 2024/2025, ACL ARR 2023/2024
