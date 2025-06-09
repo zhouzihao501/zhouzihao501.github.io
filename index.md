@@ -10,7 +10,6 @@ Zihao Zhou 周梓浩
 zihao.zhou@liverpool.ac.uk
 
 Hi! I am a CS PhD student at [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en), beginning from 2022 Fall. 
-My supervisory team includes [Prof. Qiufeng Wang](https://scholar.xjtlu.edu.cn/en/persons/QiufengWang), [Prof. Kaizhu Huang](https://sites.google.com/view/kaizhu-huang-homepage/home) and [Prof. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
 My research interests lie in:
 *  __Large Language Models Reasoning__: Evaluating and improving the reasoning ability of LLMs, particularly in math solving ability.
