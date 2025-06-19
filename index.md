@@ -22,7 +22,9 @@ My research interests lie in:
 * [Preprint] __GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field__. [[paper](https://arxiv.org/pdf/2506.13492)]
   * Chengrui Zhang\*, Maizhen Ning\*, __Zihao Zhou__, Jie Sun, Kaizhu Huang, Qiufeng Wang 
   * 📏 GeoSDF is a SDF-based tool that can synthesize plane geometry diagram and verifiable signal(like length, angle) by only offering formal relation description. It achieves 95.9% on GeoQA by synthesize-then-measure, highlighting its potential as a plane geometry environment.
-<br>
+ 
+<br>  
+
 
 
 
