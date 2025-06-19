@@ -21,8 +21,10 @@ My research interests lie in:
 ## Publications
 * [Preprint] __GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field__. [[paper](https://arxiv.org/pdf/2506.13492)]
   * Chengrui Zhang\*, Maizhen Ning\*, __Zihao Zhou__, Jie Sun, Kaizhu Huang, Qiufeng Wang 
-  * 📏 GeoSDF is a SDF-based tool that can synthesize plane geometry diagram and verifiable signal(like length, angle) by only offering formal relation description. It achieves 95.9% on GeoQA by synthesize-then-measure, highlight its potential as a plane geometry environment.
+  * 📏 GeoSDF is a SDF-based tool that can synthesize plane geometry diagram and verifiable signal(like length, angle) by only offering formal relation description. It achieves 95.9% on GeoQA by synthesize-then-measure, highlighting its potential as a plane geometry environment.
 <br>
+
+
 
 
 * [ICLR 2025] __Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist__. [[website](https://mathcheck.github.io/)] [[paper](https://arxiv.org/abs/2407.08733)] [[code](https://github.com/PremiLab-Math/MathCheck)]
