@@ -19,7 +19,7 @@ My research interests lie in:
 
 
 ## Publications
-* [NeurIPS 2025] __Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?__.
+* [NeurIPS 2025] __Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?__
   * Yijie Hu\*, __Zihao Zhou__\*, Kaizhu Huang, Xiaowei Huang, Qiufeng Wang 
   * 👁️ We propose a cross-modal model merging approach IP-Merging, which can transform math reasoning ability from LLMs to MLLMs. Without training, we can achieve 4.8% improvement on MathVista by merging Qwen2-vl-instruct and Qwen2-Math-Base. In addition, we conduct detailed analyses in parameters selection and projection. 
 <br>
