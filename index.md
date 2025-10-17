@@ -12,7 +12,7 @@ zihao.zhou@liverpool.ac.uk
 Hi! I am a CS PhD student at [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en), beginning from 2022 Fall. 
 
 My research interests mainly lie in:
-*  __Large Language Models Reasoning__: Scalable&General methods to Evaluate\Improve the reasoning ability of LMs, particularly in mathematical reasoning.
+*  __Large Language Models Reasoning__: Scalable & General methods to Evaluate \ Improve the reasoning ability of LMs, particularly in mathematical reasoning.
 *  __Formal Verification–Assisted LLMs__: Leveraging formal system to enhance the reliability and interpretability of LLMs reasoning.
 *  __Real-World Application of LRMs__ : Utilizing the progress of Large Reasoning Models to address real-world challenges and develop interesting applications.
 
