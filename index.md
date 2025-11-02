@@ -13,7 +13,7 @@ Hi! I am a CS PhD student at [University of Liverpool](https://www.liverpool.ac.
 
 My research interests mainly lie in:
 *  __Large Language Models Reasoning__: design Scalable&General methods to Evaluate\Improve the reasoning ability of foundation models, particularly in mathematical reasoning.
-*  __Formal Verification–Assisted LLMs__: leverag formal system to enhance the reliability and interpretability of model reasoning.
+*  __Formal Verification–Assisted LLMs__: leverag formal systems to enhance the reliability and interpretability of model reasoning.
 *  __Real-World Applications of LRMs__ : utilize reasoning models to address real-world challenges and develop interesting applications.
 
 
