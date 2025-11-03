@@ -9,7 +9,7 @@ Zihao Zhou 周梓浩
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=4P9trp4AAAAJ) / [Github](https://github.com/zhouzihao501) / [Twitter](https://x.com/zihaozhou_)  
 zihao.zhou@liverpool.ac.uk
 
-Hi! I am a CS PhD student at [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en), beginning from 2022 Fall. 
+Hi! I am a CS PhD student at [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-liverpool University](https://www.xjtlu.edu.cn/en), beginning from 2022 Fall. Recently,I am working closely with [Wenda Li](https://wenda302.github.io/) and [Meng Fan](https://mengfn.github.io/) on informal proving.
 
 My research interests mainly lie in:
 *  __Large Language Models Reasoning__: design Scalable&General methods to Evaluate\Improve the reasoning ability of foundation models, particularly in mathematical reasoning.
