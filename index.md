@@ -20,7 +20,7 @@ My research interests mainly lie in:
 
 ## Publications
 * [Preprint] __F1-Reasoner: Synthesizing Verifiable Reasoning Data From Formal Math Statements__ 
-  * __Zihao Zhou__\*, Wei Liu, Xinlong Fu, Kaizhu Huang, Xiaowei Huang, Meng Fan, Wenda Li, Qiufeng Wang 
+  * __Zihao Zhou__, Wei Liu, Xinlong Fu, Kaizhu Huang, Xiaowei Huang, Meng Fan, Wenda Li, Qiufeng Wang 
   * 🏁 We introduce F1-Reasoner, a framework for synthesizing high-quality verifiable reasoning data from formal mathematical statements. Both F1-Reasoner and its Mix version outperform baselines that rely on either synthetic data from artificial environments or human data.  
  <br>
 
