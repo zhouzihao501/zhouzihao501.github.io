@@ -19,6 +19,12 @@ My research interests mainly lie in:
 
 
 ## Publications
+* [Preprint] __F1-Reasoner: Synthesizing Verifiable Reasoning Data From Formal Math Statements__ 
+  * __Zihao Zhou__\*, Wei Liu, Xinlong Fu, Kaizhu Huang, Xiaowei Huang, Meng Fan, Wenda Li, Qiufeng Wang 
+  * 🏁 We introduce F1-Reasoner, a framework for synthesizing high-quality verifiable reasoning data from formal mathematical statements. Both F1-Reasoner and its Mix version outperform baselines that rely on either synthetic data from artificial environments or human data.  
+ <br>
+
+
 * [NeurIPS 2025] __Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?__ [[paper](https://arxiv.org/abs/2510.14387)]
   * Yijie Hu\*, __Zihao Zhou__\*, Kaizhu Huang, Xiaowei Huang, Qiufeng Wang 
   * 👁️ We propose a cross-modal model merging approach IP-Merging, which can transform math reasoning ability from LLMs to MLLMs. Without training, we can achieve 4.8% improvement on MathVista by merging Qwen2-vl-instruct and Qwen2-Math-Base. In addition, we conduct detailed analyses in parameters selection and projection.  
