@@ -19,6 +19,12 @@ My research interests mainly lie in:
 
 
 ## Publications
+* [Preprint] __Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics__. [[Demo](https://demo.projectnumina.ai/)] [[paper](https://arxiv.org/abs/2601.14027)] [[code](https://github.com/project-numina/numina-lean-agent?tab=readme-ov-file)]  
+  * Junqi Liu\*, __Zihao Zhou__\*, Zekai Zhu\*, Marco Dos Santos, Weikun He, Jiawei Liu, Ran Wang, Yunzhou Xie, Junqiao Zhao, Qiufeng Wang, Lihong Zhi, Jia Li, Wenda Li  
+  * 🔮 We propose Numina-Lean-Agent, a general agentic reasoning system that can autonomously interact with diverse reasoning tools. Numina-Lean-Agent achieves state-of-the-art performance on Putnam 2025 (12/12) and successfully formalizes the Brascamp–Lieb theorem in collaboration with mathematicians.
+<br>
+
+
 * [Preprint] __F1-Reasoner: Synthesizing Verifiable Reasoning Data From Formal Math Statements__ 
   * __Zihao Zhou__, Wei Liu, Xinlong Fu, Kaizhu Huang, Xiaowei Huang, Meng Fan, Wenda Li, Qiufeng Wang 
   * 🏁 We introduce F1-Reasoner, a framework for synthesizing high-quality verifiable reasoning data from formal mathematical statements. Both F1-Reasoner and its Mix version outperform baselines that rely on either synthetic data from artificial environments or human data.  
