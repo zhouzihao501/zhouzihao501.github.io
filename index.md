@@ -22,20 +22,23 @@ of foundation models.
 ## Publications
 * [NeurIPS 2026 Math-AI Workshop] __Numina-Prover: Open-Source Vibe Proving for Informal Mathematics via Parallel Subagents__.  
   * Zibo Yang\*, Ozgur Temmuz Celik\*, __Zihao Zhou__\*, Shudong Liu, Antoine Peyronnet, Daxin Xu, Shengquan Xiang, Jia Li, Amaury Hayat  
-  * 🪐 Numina-Prover is an open-source vibe-proving tool for informal mathematical reasoning through multi-agent collaboration. It achieves 78% on seven research-level problems and helps solve a decade-old open conjecture.
+  * 🪐 Numina-Prover is an open-source vibe-proving tool for informal mathematical reasoning through multi-agent collaboration. It achieves 78% on seven research-level problems and helps solve a decade-old open conjecture. 
+
 <br>
 
 
 * [EMNLP 2026 Findings] __VisMind: Stateful Synthetic Dialogue for Visual Mid-Training__.  
   * Xinlong Fu, __Zihao Zhou__, Qiufeng Wang  
-  * 👨‍🏫 We propose VisMind, a multi-agent framework that generates Synthetic Dialogue Data through iterative solving and critique. Mid-Training on 1.14B tokens improves VLM reasoning and generalization while enhancing subsequent RL.
+  * 👨‍🏫 We propose VisMind, a multi-agent framework that generates Synthetic Dialogue Data through iterative solving and critique. Mid-Training on 1.14B tokens improves VLM reasoning and generalization while enhancing subsequent RL. 
+
 <br>
 
 
 
 * [EMNLP 2026 Findings] __Transferring Math Reasoning Abilities from LLMs to MLLMs via Causal-Aware Model Merging__.  
   * Yijie Hu, Guanyu Yang, __Zihao Zhou__, Bin Dong, Xiaowei Huang, Kaizhu Huang, Qiufeng Wang  
-  * A causal-guided parameter merging framework that identifies and selectively merges math reasoning-related parameters into MLLMs. The tuning-free approach consistently improves both mathematical and general reasoning across three model families and six benchmarks.
+  * A causal-guided parameter merging framework that identifies and selectively merges math reasoning-related parameters into MLLMs. The tuning-free approach consistently improves both mathematical and general reasoning across three model families and six benchmarks. 
+
 <br>
 
 
