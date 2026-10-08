@@ -42,7 +42,7 @@ of foundation models.
   * Junqi Liu\*, __Zihao Zhou__\*, Zekai Zhu\*, Marco Dos Santos, Weikun He, Jiawei Liu, Ran Wang, Yunzhou Xie, Junqiao Zhao, Qiufeng Wang, Lihong Zhi, Jia Li, Wenda Li  
   * 🔮 We propose Numina-Lean-Agent, a general agentic reasoning system that can autonomously interact with diverse reasoning tools. It achieves state-of-the-art performance on Putnam 2025 (12/12) and successfully formalizes the Brascamp–Lieb theorem in collaboration with mathematicians.
   
-<br>
+ <br>
 
  
 * [Preprint] __F1-Reasoner: Synthesizing Verifiable Reasoning Data From Formal Math Statements__ 
