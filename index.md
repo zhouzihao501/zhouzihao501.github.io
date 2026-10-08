@@ -21,7 +21,7 @@ of foundation models.
 
 
 ## Publications
-* [NeurIPS 2025 Math-AI Workshop] __Numina-Prover: Open-Source Vibe Proving for Informal Mathematics via Parallel Subagents__.  
+* [NeurIPS 2026 Math-AI Workshop] __Numina-Prover: Open-Source Vibe Proving for Informal Mathematics via Parallel Subagents__.  
   * Zibo Yang\*, Ozgur Temmuz Celik\*, __Zihao Zhou__\*, Shudong Liu, Antoine Peyronnet, Daxin Xu, Shengquan Xiang, Jia Li, Amaury Hayat  
   * 🪐 Numina-Prover is an open-source vibe-proving tool for informal mathematical reasoning through multi-agent collaboration. It achieves 78% on seven research-level problems and helps resolve a decade-old open conjecture.
 <br>
