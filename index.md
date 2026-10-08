@@ -23,29 +23,24 @@ of foundation models.
 * [NeurIPS 2026 Math-AI Workshop] __Numina-Prover: Open-Source Vibe Proving for Informal Mathematics via Parallel Subagents__.  
   * Zibo Yang\*, Ozgur Temmuz Celik\*, __Zihao Zhou__\*, Shudong Liu, Antoine Peyronnet, Daxin Xu, Shengquan Xiang, Jia Li, Amaury Hayat  
   * 🪐 Numina-Prover is an open-source vibe-proving tool for informal mathematical reasoning through multi-agent collaboration. It achieves 78% on seven research-level problems and helps solve a decade-old stability conjecture. 
-
 <br>
 
 
 * [EMNLP 2026 Findings] __VisMind: Stateful Synthetic Dialogue for Visual Mid-Training__.  
   * Xinlong Fu, __Zihao Zhou__, Qiufeng Wang  
   * 👨‍🏫 We propose VisMind, a multi-agent framework that generates Synthetic Dialogue Data through iterative solving and critique. Mid-Training on 1.14B tokens improves VLM reasoning and generalization while enhancing subsequent RL. 
-
 <br>
-
 
 
 * [EMNLP 2026 Findings] __Transferring Math Reasoning Abilities from LLMs to MLLMs via Causal-Aware Model Merging__.  
   * Yijie Hu, Guanyu Yang, __Zihao Zhou__, Bin Dong, Xiaowei Huang, Kaizhu Huang, Qiufeng Wang  
   * A causal-guided parameter merging framework that identifies and selectively merges math reasoning-related parameters into MLLMs. The tuning-free approach consistently improves both mathematical and general reasoning across three model families and six benchmarks. 
-
 <br>
-
 
 
 * [ICML 2026] __Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics__. [[Demo](https://demo.projectnumina.ai/)] [[paper](https://arxiv.org/abs/2601.14027)] [[code](https://github.com/project-numina/numina-lean-agent?tab=readme-ov-file)]  
   * Junqi Liu\*, __Zihao Zhou__\*, Zekai Zhu\*, Marco Dos Santos, Weikun He, Jiawei Liu, Ran Wang, Yunzhou Xie, Junqiao Zhao, Qiufeng Wang, Lihong Zhi, Jia Li, Wenda Li  
-  * 🔮 We propose Numina-Lean-Agent, a general agentic reasoning system that can autonomously interact with diverse reasoning tools. Numina-Lean-Agent achieves state-of-the-art performance on Putnam 2025 (12/12) and successfully formalizes the Brascamp–Lieb theorem in collaboration with mathematicians.  
+  * 🔮 We propose Numina-Lean-Agent, a general agentic reasoning system that can autonomously interact with diverse reasoning tools. Numina-Lean-Agent achieves state-of-the-art performance on Putnam 2025 (12/12) and successfully formalizes the Brascamp–Lieb theorem in collaboration with mathematicians. 
 <br>
 
 
